@@ -1,0 +1,43 @@
+{
+	"info": "Fetching successful",
+	"error_code": "0",
+	"response": {
+		"data": {
+			"locations": [{
+				"id": "48c17b10-0ee6-4a39-8170-a2a1340ce4b6",
+				"name": "Palma de Mallorca Airport",
+				"type": {
+					"id": "airport",
+					"name": "Airport"
+				},
+				"iataCode": "PMI",
+				"city": {
+					"id": "86a5248a-a6d0-409a-9b3d-b3cbcc4cdd2b",
+					"name": "Mallorca",
+					"capital": false,
+					"geo": {
+						"lat": 39.695263,
+						"long": 3.017571
+					},
+					"iataCode": null,
+					"state": null,
+					"country": {
+						"id": "ES",
+						"iso3": null,
+						"name": "Spain",
+						"capital": "",
+						"geo": {
+							"lat": -4,
+							"long": 40
+						},
+						"phonePrefix": null,
+						"continent": {
+							"id": "EU",
+							"name": "Europe"
+						}
+					}
+				}
+			}]
+		}
+	}
+}
